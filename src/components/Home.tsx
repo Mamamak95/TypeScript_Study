@@ -1,0 +1,75 @@
+import React from "react";
+import Table from "react-bootstrap/Table";
+
+export default function Home() {
+  return (
+    <div>
+      <Table responsive bordered>
+        <thead>
+          <tr>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+            <th>1</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+          </tr>
+        </tbody>
+      </Table>
+    </div>
+  );
+}
